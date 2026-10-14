@@ -1,4 +1,4 @@
-# Stockwise · Gestão de inventário
+# Senai estoque · Gestão de inventário
 
 Demonstração web em português, feita com PHP, HTML, CSS e JavaScript. A interface está em `index.html`; o PHP em `index.php` e `api.php` entrega a página e disponibiliza a API; os cadastros são persistidos em `data/inventory.json`.
 
